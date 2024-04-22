@@ -10,7 +10,7 @@
 
 |💻 My Tech Stack Skills |📞 Let's Connect! |
 | ---      | ---       |
-| <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,figma,git,github,html,js,materialui,mongodb,nextjs,nodejs,notion,npm,ps,postman,react,sass,tailwind,ts,vercel,vscode,windows,wordpress" />| <a href="https://www.linkedin.com/in/dennnfrancisco/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"/></a><a href="dennnfrancisco.my.canva.site"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/></a>
+| <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,figma,git,github,html,js,materialui,mongodb,nextjs,nodejs,notion,npm,ps,postman,react,sass,tailwind,ts,vercel,vscode,windows,wordpress" />| <a href="https://www.linkedin.com/in/dennnfrancisco/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"/></a><a href="https://dennnfrancisco.my.canva.site"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/></a>
 
 <!--# 💻 Tech Stack
 <p align="center">
