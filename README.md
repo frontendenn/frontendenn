@@ -1,16 +1,26 @@
-### Hi there 👋
+![Hey!](https://github.com/frontendenn/frontendenn/assets/167755015/4d9e607d-5efd-4da5-94a3-6c9611d8f85c)
 
-<!--
-**frontendenn/frontendenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm Denise!
+- 🖱️ Frontend Developer that mainly works with **NextJS**. 
+- 🧠 Currently learning game development and different React Frameworks. 
+- 👩‍🎓 Graduated in 2023 as a Magna Cum Laude with a degree of Bachelor of Science in Computer Engineering.
+- 🖌️ Former Graphic Designer Intern at Humble Sustainability.
+- 💼 Currently working as a **Frontend Developer** for QUBE Smart Technology Corporation.
+- ♐ *November Sagittarius (iykyk), 23, dog lover.*
 
-Here are some ideas to get you started:
+|💻 My Tech Stack Skills |📞 Let's Connect! |
+| ---      | ---       |
+| <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,figma,git,github,html,js,materialui,mongodb,nextjs,nodejs,notion,npm,ps,postman,react,sass,tailwind,ts,vercel,vscode,windows,wordpress" />| <a href="https://www.linkedin.com/in/dennnfrancisco/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"/></a><a href="dennnfrancisco.my.canva.site"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--# 💻 Tech Stack
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,figma,git,github,html,js,materialui,mongodb,nextjs,nodejs,notion,npm,ps,postman,react,sass,tailwind,ts,vercel,vscode,windows,wordpress" />
+</p>
+
+# 📞 Contact 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/dennnfrancisco/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"/></a>
+    <a href="dennnfrancisco.my.canva.site"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/></a>
+    <a href="mailto:dennnfrancisco@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg"/></a>
+</p>
+>
