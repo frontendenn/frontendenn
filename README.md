@@ -3,7 +3,7 @@
 # 👋 Hello! I'm Denise!
 - 🖱️ Frontend Developer that mainly works with **NextJS**. 
 - 🧠 Currently learning game development and different React Frameworks. 
-- 👩‍🎓 Graduated in 2023 as a Magna Cum Laude with a degree of Bachelor of Science in Computer Engineering.
+- 👩‍🎓 Graduated Magna Cum Laude with a degree of Bachelor of Science in Computer Engineering last 2023.
 - 🖌️ Former Graphic Designer Intern at Humble Sustainability.
 - 💼 Currently working as a **Frontend Developer** for QUBE Smart Technology Corporation.
 - ♐ *November Sagittarius (iykyk), 23, dog lover.*
