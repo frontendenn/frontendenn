@@ -5,7 +5,7 @@
 - 🧠 Currently learning game development and different React Frameworks. 
 - 👩‍🎓 Graduated Magna Cum Laude with a degree of Bachelor of Science in Computer Engineering last 2023.
 - 🖌️ Former Graphic Designer Intern at Humble Sustainability.
-- 💼 Currently working as a **Frontend Developer** for QUBE Smart Technology Corporation.
+- 💼 Currently working as a **Frontend Developer** for AIQUE Innovation Technology Corporation, former Junior Frontend Developer at QUBE Smart Technology Corporation.
 - ♐ *November Sagittarius (iykyk), 23, dog lover.*
 
   I'm currently working on my new and improved portfolio, for the mean time, here's my [current portfolio!](https://dennnfrancisco.my.canva.site)
