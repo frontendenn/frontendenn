@@ -4,9 +4,9 @@
 - 🖱️ Frontend Developer that mainly works with **NextJS**. 
 - 🧠 Currently learning game development and different React Frameworks. 
 - 👩‍🎓 Graduated Magna Cum Laude with a degree of Bachelor of Science in Computer Engineering last 2023.
-- 🖌️ Former Graphic Designer Intern at Humble Sustainability.
-- 💼 Currently working as a **Frontend Developer** for AIQUE Innovation Technology Corporation, former Junior Frontend Developer at QUBE Smart Technology Corporation.
-- ♐ *November Sagittarius (iykyk), 23, dog lover.*
+- 🖌️ Former Graphic Designer Intern at Humble Sustainability, former **Frontend Developer** for AIQUE Innovation Technology Corporation, former Junior Frontend Developer at QUBE Smart Technology Corporation.
+- 💼 Currently working as an Integration Software Engineer for Chevron, under the Horizons Manila Program.
+- ♐ *November Sagittarius (iykyk), 24, dog lover.*
 
   I'm currently working on my new and improved portfolio, for the mean time, here's my [current portfolio!](https://dennnfrancisco.my.canva.site)
 
